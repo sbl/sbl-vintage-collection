@@ -1,0 +1,1 @@
+// to use in conjunction with umenu in labelmode, connect to prepend appendautowatch = 1;inlets = 1;outlets = 1;var tag;if (jsarguments.length >= 2){ 	tag = jsarguments[1]; } else {	tag = "";};function msg_float(x){	x = x.toFixed(2);	outlet(0,  x+" "+tag);	}
