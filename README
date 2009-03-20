@@ -1,10 +1,16 @@
 sbl vintage suite and other goodies
 ###################################
 
-Old plugins for public usage.
+Old plugins for public usage. Source Code
 
 Use the plugbuilder.mxt patch for a convenience builder.
 See http://www.cycling74.com/story/2007/3/22/11219/9075 for automatic pluggo building.
+
+For non-git people, get the binarys for 
+
+osx: http://cloud.github.com/downloads/sbl/sbl-vintage-collection/sbl_vintage_osx.zip
+xp: http://cloud.github.com/downloads/sbl/sbl-vintage-collection/sbl_vintage_xp.zip
+
 
 Requirements:
 MaxMSP 4.6 & and a VST/RTAS/AU capable host.
